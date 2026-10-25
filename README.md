@@ -1,4 +1,4 @@
-# Simple Tasks
+<img width="2464" height="1484" alt="image" src="https://github.com/user-attachments/assets/e40c48a5-b42c-4f10-a0ed-f21b9c147056" /># Simple Tasks
 FULL DISCLAIMER: THIS WAS VIBE CODED USING AI. 
 This software was the exact type of thing I needed to keep track of my tasks, and I figure it may be helpful to others, so I'm uploading it here.
 If you prefer your productivity software artisanal, look elsewhere.
@@ -61,6 +61,16 @@ Tasks and settings save in your Windows profile at:
 The previous save is kept as `tasks.json.bak`. Use **File → Export backup** for a separate JSON backup. Copying the EXE or downloading an update does not copy or replace your task data. The app uses the system's local time zone for date display, daily resets, and future repeat scheduling.
 
 This download contains no personal task records or calendar exports. The app does not connect to Canvas or synchronize automatically; its Canvas workflow is the manual `.ics` importer. Other calendar-suite import support is not claimed.
+
+## Screenshots
+<img width="2470" height="1478" alt="image" src="https://github.com/user-attachments/assets/08b5bbea-891e-4d16-a2c2-925efea05dfa" />
+
+<img width="2472" height="1494" alt="image" src="https://github.com/user-attachments/assets/9dbb2fa3-390c-4297-b3db-fa4ec1a429b6" />
+
+<img width="2462" height="1486" alt="image" src="https://github.com/user-attachments/assets/b74b98d2-e0f3-4749-8842-5fcae8243826" />
+
+<img width="2464" height="1484" alt="image" src="https://github.com/user-attachments/assets/9531bb30-6ae8-4d44-8077-07e700c99a06" />
+
 
 ## Build from source
 
