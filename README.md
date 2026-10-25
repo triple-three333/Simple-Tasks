@@ -1,3 +1,4 @@
+## Simple Tasks: A small productivity tool to keep track of your to-do list with some extra functionality
 FULL DISCLAIMER: THIS WAS VIBE CODED USING AI. 
 This software was the exact type of thing I needed to keep track of my tasks, and I figure it may be helpful to others, so I'm uploading it here.
 If you prefer your productivity software artisanal, look elsewhere.
