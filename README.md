@@ -1,4 +1,3 @@
-<img width="2464" height="1484" alt="image" src="https://github.com/user-attachments/assets/e40c48a5-b42c-4f10-a0ed-f21b9c147056" /># Simple Tasks
 FULL DISCLAIMER: THIS WAS VIBE CODED USING AI. 
 This software was the exact type of thing I needed to keep track of my tasks, and I figure it may be helpful to others, so I'm uploading it here.
 If you prefer your productivity software artisanal, look elsewhere.
